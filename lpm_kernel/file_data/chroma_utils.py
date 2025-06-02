@@ -45,6 +45,8 @@ def detect_embedding_model_dimension(model_name: str) -> Optional[int]:
         "nomic-embed-text:v1.5": 768,
         "mxbai-embed-large": 1024,
         "mxbai-embed-large:v1": 1024,
+        "bge-m3": 1024,
+        "bge-m3:latest": 1024,
     }
     
     # Try to find exact match
