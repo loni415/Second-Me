@@ -27,7 +27,7 @@ services:
       resources:
         limits:
           # Set container memory limit to 24GB
-          memory: 64G
+          memory: 56G
         reservations:
           # Memory reservation
           memory: 6G
@@ -53,7 +53,7 @@ services:
       resources:
         limits:
           # Set container memory limit to 8GB
-          memory: 2G
+          memory: 8G
         reservations:
           # Memory reservation
           memory: 1G
