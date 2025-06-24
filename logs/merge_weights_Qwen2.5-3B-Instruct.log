@@ -1,0 +1,28 @@
++ python lpm_kernel/L2/merge_lora_weights.py --base_model_path /app/resources/L2/base_models/Qwen2.5-3B-Instruct --lora_adapter_path /app/resources/model/output/personal_model/Qwen2.5-3B-Instruct --output_model_path /app/resources/model/output/merged_model/Qwen2.5-3B-Instruct
+INFO:__main__:Initial memory state: RAM used: 2.42GB, available: 13.01GB
+WARNING:__main__:CUDA not available or not enabled. Using CPU for model operations.
+INFO:lpm_kernel.L2.memory_manager:Memory after cleanup: RAM: 2.42GB / 15.66GB, VRAM: 0.00GB / 0.00GB
+INFO:__main__:Loading base model from /app/resources/L2/base_models/Qwen2.5-3B-Instruct with device_map=None, dtype=torch.float32
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.14s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.01it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.02s/it]
+INFO:__main__:Loading LoRA adapter from /app/resources/model/output/personal_model/Qwen2.5-3B-Instruct
+INFO:__main__:Merging LoRA weights into base model on cpu
+INFO:__main__:Saving merged model to /app/resources/model/output/merged_model/Qwen2.5-3B-Instruct
+INFO:__main__:Model successfully merged and saved!
++ python lpm_kernel/L2/merge_lora_weights.py --base_model_path /app/resources/L2/base_models/Qwen2.5-3B-Instruct --lora_adapter_path /app/resources/model/output/personal_model/Qwen2.5-3B-Instruct --output_model_path /app/resources/model/output/merged_model/Qwen2.5-3B-Instruct
+INFO:__main__:Initial memory state: RAM used: 4.05GB, available: 32.73GB
+WARNING:__main__:CUDA not available or not enabled. Using CPU for model operations.
+INFO:lpm_kernel.L2.memory_manager:Memory after cleanup: RAM: 4.05GB / 37.20GB, VRAM: 0.00GB / 0.00GB
+INFO:__main__:Loading base model from /app/resources/L2/base_models/Qwen2.5-3B-Instruct with device_map=None, dtype=torch.float32
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  1.03it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.33it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.28it/s]
+INFO:__main__:Loading LoRA adapter from /app/resources/model/output/personal_model/Qwen2.5-3B-Instruct
+INFO:__main__:Merging LoRA weights into base model on cpu
+INFO:__main__:Saving merged model to /app/resources/model/output/merged_model/Qwen2.5-3B-Instruct
+INFO:__main__:Model successfully merged and saved!

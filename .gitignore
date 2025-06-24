@@ -64,8 +64,8 @@ resources/L2/data/*
 
 resources/model/output/gguf/*
 resources/L2/base_models/*
-logs/*.log
-logs/train/*.log
+#logs/*.log
+#logs/train/*.log
 
 # Runtime files
 run/*
@@ -74,7 +74,7 @@ run/*
 #config
 .backend.pid
 .frontend.pid
-logs/train/
+#logs/train/
 llama_cpp_backup/llama.cpp.zip
 scripts/check_cuda_status.ps1
 scripts/test_cuda_detection.bat
