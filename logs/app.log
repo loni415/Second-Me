@@ -13440,3 +13440,39 @@ openai.NotFoundError: Error code: 404 - {'error': {'message': 'model "models/lpm
 2025-06-24 12:42:47 [INFO] local_llm_service.py:279 - Terminated llama-server processes: [224]
 2025-06-24 12:42:47 [INFO] _internal.py:97 - 192.168.97.3 - - [24/Jun/2025 12:42:47] "POST /api/kernel2/llama/stop HTTP/1.1" 200 -
 2025-06-24 12:42:50 [INFO] _internal.py:97 - 192.168.97.3 - - [24/Jun/2025 12:42:50] "GET /api/kernel2/llama/status HTTP/1.1" 200 -
+2025-08-12 18:41:47 [INFO] logging.py:36 - Logging system initialized successfully
+2025-08-12 18:41:47 [INFO] logging.py:53 - Logging module initialization complete
+2025-08-12 18:41:47 [INFO] script_executor.py:9 - INFO: ScriptExecutor module loaded
+2025-08-12 18:41:47 [WARNING] script_executor.py:10 - WARNING: ScriptExecutor module loaded
+2025-08-12 18:41:47 [ERROR] script_executor.py:11 - ERROR: ScriptExecutor module loaded
+2025-08-12 18:41:47 [INFO] config.py:54 - PyTorch version 2.5.1 available.
+2025-08-12 18:41:47 [ERROR] posthog.py:59 - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-08-12 18:41:47 [ERROR] posthog.py:59 - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-08-12 18:41:47 [INFO] memory_service.py:22 - Initializing storage service, base_dir: /app/data/.
+2025-08-12 18:41:47 [INFO] memory_service.py:23 - Raw content directory configuration: /app/data/resources/raw_content
+2025-08-12 18:41:47 [INFO] memory_service.py:39 - Storage path created: /app/data/resources/raw_content
+2025-08-12 18:41:47 [ERROR] posthog.py:59 - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-08-12 18:41:47 [ERROR] posthog.py:59 - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-08-12 18:41:48 [INFO] logging.py:36 - Logging system initialized successfully
+2025-08-12 18:41:48 [INFO] logging.py:53 - Logging module initialization complete
+2025-08-12 18:41:50 [INFO] database_session.py:51 - SQLite database engine and session factory initialized
+2025-08-12 18:41:50 [INFO] posthog.py:20 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-12 18:41:50 [ERROR] posthog.py:59 - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-08-12 18:41:50 [ERROR] posthog.py:59 - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-08-12 18:41:50 [INFO] script_executor.py:9 - INFO: ScriptExecutor module loaded
+2025-08-12 18:41:50 [WARNING] script_executor.py:10 - WARNING: ScriptExecutor module loaded
+2025-08-12 18:41:50 [ERROR] script_executor.py:11 - ERROR: ScriptExecutor module loaded
+2025-08-12 18:41:50 [INFO] config.py:54 - PyTorch version 2.5.1 available.
+2025-08-12 18:41:50 [ERROR] posthog.py:59 - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-08-12 18:41:50 [ERROR] posthog.py:59 - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-08-12 18:41:50 [INFO] memory_service.py:22 - Initializing storage service, base_dir: /app/data/.
+2025-08-12 18:41:50 [INFO] memory_service.py:23 - Raw content directory configuration: /app/data/resources/raw_content
+2025-08-12 18:41:50 [INFO] memory_service.py:39 - Storage path created: /app/data/resources/raw_content
+2025-08-12 18:41:50 [ERROR] posthog.py:59 - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-08-12 18:41:50 [INFO] app.py:18 - Database connection initialized successfully
+2025-08-12 18:41:50 [INFO] handler.py:12 - Initializing file server with base directory: /app/resources/raw_content
+2025-08-12 18:41:50 [INFO] _internal.py:97 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8002
+ * Running on http://192.168.97.2:8002
+2025-08-12 18:41:50 [INFO] _internal.py:97 - [33mPress CTRL+C to quit[0m

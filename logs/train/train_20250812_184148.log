@@ -1,0 +1,3 @@
+2025-08-12 18:41:47 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
+2025-08-12 18:41:47 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
+2025-08-12 18:41:47 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest

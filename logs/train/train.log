@@ -1,7 +1,4 @@
-2025-06-24 12:10:45 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
-2025-06-24 12:10:45 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
-2025-06-24 12:10:45 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
-2025-06-24 12:10:45 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
-2025-06-24 12:11:48 [INFO] strategy_openai.py:19 - Getting embedding for {'input': ['hello?'], 'model': 'bge-m3:latest'}, total chunks: 1
-2025-06-24 12:12:47 [INFO] strategy_openai.py:19 - Getting embedding for {'input': ['hello'], 'model': 'bge-m3:latest'}, total chunks: 1
-2025-06-24 12:13:52 [INFO] strategy_openai.py:19 - Getting embedding for {'input': ['hello'], 'model': 'bge-m3:latest'}, total chunks: 1
+2025-08-12 18:41:50 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
+2025-08-12 18:41:50 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
+2025-08-12 18:41:50 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
+2025-08-12 18:41:50 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
