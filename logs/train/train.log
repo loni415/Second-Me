@@ -1,4 +1,1417 @@
-2025-08-12 18:41:50 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
-2025-08-12 18:41:50 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
-2025-08-12 18:41:50 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
-2025-08-12 18:41:50 [INFO] embedding_service.py:30 - Detected embedding dimension: 1024 for model: bge-m3:latest
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 255:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13801
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: In this view, behind discourse resides hard power. The reason for the dominance of Western discourse...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 256:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13802
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Although China's economy and hard power are growing, the gap between its own discourse power and tha...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 257:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13803
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: As part of this process, Chen believes that China must break the West's discourse hegemony by creati...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 258:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13804
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Xi's formulations bear a striking resemblance to Politburo member and propaganda czar Li Changchun's...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 259:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13805
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: In his discussion with Indian prime minister Rajiv Gandhi in December 1988, Deng Xiaoping noted that...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 260:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13806
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: One of the most candid accounts of what this expression actually means was offered by Fu Ying, the c...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 261:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13807
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: First, the existing order is unfair. It perpetuates Western dominance while keeping China's influenc...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 262:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13808
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # China Taking the Lead  
+
+The world order therefore needs to be "fairer and more reasonable," and t...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 263:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13809
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: In an attempt to alleviate the perception that its efforts to transform the world order are nothing ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 264:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13810
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Beyond its calls for a reform of the current system in a fairer and more reasonable direction, the C...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 265:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13811
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Ideational Foundations  
+
+Any attempt to understand how Beijing sees the world and what kind of wo...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 266:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13812
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Reclaiming China's Cultural and Historical Heritage  
+
+The claim of exceptionalism and its particu...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 267:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13813
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Various Chinese leaders have made references to classical thought in the context of contemporary pol...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 268:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13814
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Beyond his supposed personal intellectual interest, Xi has described Chinese culture as being of str...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 269:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13815
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Xi's accession to power—instill morality within the party cadres and the society writ large.$^{97}$ ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 270:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13816
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Together with a renewed emphasis on the greatness of China's tradition, the CCP's domestic narrative...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 271:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13817
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The CCP's efforts to legitimize its absolute rule rest on an attempt to blur the demarcations that w...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 272:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13818
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Assertina a Confident Chinese Model  
+
+Insisting on China's exceptionalism also helps the party as...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 273:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13819
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Deng Xiaoping similarly rejected other sociopolitical systems 30 years earlier, arguing in particula...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 274:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13820
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: threat theory" mainly derives from the realist assumption that, as a rising power, China must sooner...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 275:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13821
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The peaceful rise concept is a deliberate response to the China threat theory, presented, as William...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 276:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13822
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Zhang Feng concurs that China's emphasis on pacifist discourse is an attempt to mitigate external su...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 277:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13823
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Toward an Alternative Model for the World  
+
+The insistence on China's unique characteristics and ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 278:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13824
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: development brought about by socialism, "Western capitalism has suffered defeats (financial crisis, ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 279:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13825
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Brewing a Chinese Worldview  
+
+Karl Marx believed that the role of philosophy was not only to unde...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 280:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13826
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Scholars in a Gilded Cage  
+
+Although some scholars are adamant in presenting their work as entire...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 281:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13827
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Science Fund of China.$^{149}$ Research projects outside the party’s interests will not get financia...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 282:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13828
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: It is not uncommon for a regime to emphasize its continuity with historical traditions and cultural ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 283:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13829
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: of the center's instructions sometimes provokes intense debates among experts. In a speech at a conf...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 284:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13830
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The development of distinctively Chinese social science theories is seen as integral to the party's ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 285:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13831
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Theorized by Chinese scholars, the contours of this newly created exportable model of modernity shou...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 286:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13832
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Zhang Zhizhou, a professor at the Beijing Foreign Studies University, notes that a country's foreign...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 287:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13833
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: culture is nothing but a "suitable communication channel for 'explaining China's story' (or stories)...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 288:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13834
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: At the core of Chinese scholars' reflections on alternative world systems lies an attempt to challen...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 289:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13835
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Motivated by their mission to serve their country's future role and fulfill its responsibilities in ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 290:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13836
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: First is the Tsinghua school, led by Tsinghua University professor Yan Xuetong, which focuses on the...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 291:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13837
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Third, Zhao Tingyang, a professor of philosophy at the Chinese Academy of Social Sciences, spent the...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 292:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13838
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Exploring Everything Under the Heavens  
+
+The concept of tianxia is highly debated within and outs...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 293:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13839
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Modern Chinese intellectuals have turned to the tianxia concept, albeit differently at different tim...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 294:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13840
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Contemporary discussions about Chinese visions for a future world order often include the tianxia co...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 295:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13841
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Other scholars insist on tianxia's benevolent nature. In a detailed essay written in 2015, Li Yangfa...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 296:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13842
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: China was the originator and maintainer of a system that other free-riding members wanted to maintai...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 297:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13843
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # New Paradigm or Old Realpolitik?  
+
+The construction of a Chinese paradigm rooted in Chinese tradi...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 298:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13844
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: As they wrestle with the elaboration of a vision for a new world order, Chinese elites usually refer...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 299:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13845
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Altering the World  
+
+During his 2015 visit to the United States, Xi Jinping indicated that China ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 300:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13846
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Qualified to Guide a World in Need  
+
+Chinese commentary praises Xi for "standing on the commandin...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 301:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13847
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: by the Chinese government can become an inspiration for others. $^{202}$ The “China solution” adopte...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 302:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13848
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Calling for the Creation of a Community of Common Destiny  
+
+Xi Jinping has come close to candidly...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 303:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13849
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: had mutated into a "shared future," and its components were more explicit.$^{211}$ Xi expounded on t...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 304:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13850
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Xi's vision for the community of common destiny is not modest.$^{218}$ Its goal is nothing less than...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 305:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13851
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The transmutation of Hu’s concept of a harmonious world into Xi’s community of common destiny comes ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 306:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13852
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: - In the security domain, Xi proposes building a “common, comprehensive, cooperative and sustainable...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 307:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13853
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: - In the cultural sphere, Xi advocates respecting "cultural diversity" and "accepting differences" b...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 308:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13854
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Absent from the official description of the community of common destiny is any discussion about the ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 309:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13855
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: To alter the existing world order, Beijing is taking concrete steps, working concomitantly and with ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 310:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13856
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: and adviser to the National Security Commission, thinks that BRI is gradually "getting rid of the sh...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 311:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13857
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: BRI is obviously a key component of Beijing's effort to create deeper connections with countries bey...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 312:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13858
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Global Network of Partnerships: The New Order's Sinews  
+
+Whereas BRI is the backbone of the commu...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 313:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13859
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Beijing has traditionally sought to expand the country’s circle of friends as a base to support its ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 314:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13860
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: China's network of partners is not limited to authoritarian regimes. Cooperative democracies perhaps...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 315:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13861
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: should “strengthen unity and cooperation with developing countries and closely integrate our own dev...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 316:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13862
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Li Kaisheng, a senior fellow from the Shanghai Academy of Social Sciences, considers this self-appoi...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 317:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13863
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Deciding in which direction the world will head is essentially about "laying down rules for the inte...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 318:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13864
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Sun Jisheng writes that expanding the country’s institutional power means “influencing and shaping o...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 319:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13865
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: China is also incrementally moving from an outsider and a reformer of the existing rules to becoming...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 320:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13866
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: In addition to economic and political governance, Beijing has become more proactive in defining new ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 321:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13867
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: In addition to using existing institutions and organizations and creating its own platforms to suppo...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 322:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13868
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: . The representatives visited the Central Party School, viewed an exhibition on China's achievements...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 323:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13869
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # China's Vision for a New World Order: A Partial, Loose, and Malleable Hegemony  
+
+China's attempts...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 324:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13870
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Beyond indications of what is loathed, feared, and unwanted, there is no explicitly elucidated visio...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 325:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13871
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Instead, with the help of scholars and public intellectuals, the party-state is carefully honing its...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 326:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13872
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: peace will not, as in the democratic peace theory that lies at the heart of the prevailing liberal c...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 327:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13873
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: . To invalidate the assumption that prosperity can only be achieved with a democratic system of gove...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 328:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13874
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The new international order that the Chinese political elites seem to have in mind may be defined as...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 329:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13875
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: cosmopolitan core of immense networks of production and trade, skills and learning—admired, envied, ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 330:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13876
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Historically, tianxia extended over three loosely defined concentric circles: the core, under the di...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 331:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13877
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Official protestations notwithstanding, it seems rather clear that the CCP would like to be recogniz...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 332:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13878
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Given the controversy attached to the term and its overuse to describe different realities, applying...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 333:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13879
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: <html>...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 334:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13880
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: <table><thead><tr><th style="text-align: right;">Concept/term</th><th style="text-align: right;">Fir...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 335:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13881
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: . According to Xi, "cultural confidence" represents the "unique spiritual identity of the Chinese na...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 336:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13882
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: </html>...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 337:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13883
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: <html>
+<table><thead><tr><th>Concept/term</th><th>First known use in an official context</th><th>Chi...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 338:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13884
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: <html>
+<table><thead><tr><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr><tr><th>Co...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 339:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13885
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: <html>...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 340:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13886
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: <table><thead><tr><th style="text-align: center; border: 1px solid black;">Concept/term</th><th styl...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 341:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13887
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: .</td></tr><tr><td style="text-align: center; border: 1px solid black;">Amity, sincere, mutual benef...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 342:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13888
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: </html>...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 343:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13889
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: <html>...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 344:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13890
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: <table><thead><tr><th rowspan="2" style="text-align:center;">Concept/term</th><th colspan="3" style=...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 345:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13891
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: .</td></tr><tr><td>Innovation, coordination, green development, openness, and sharing</td><td>2015</...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 346:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13892
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: </html>...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 347:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13893
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: <html>
+<table><thead><tr><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr><tr><th>Concept/term</th>...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 348:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13894
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 50
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: NBR THE NATIONAL BUREAU of ASIAN RESEARCH  
+
+Seattle and Washington, D.C.  
+
+1414 NE 42ND STREET, SU...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:426 - 
+Note 45:
+2025-08-13 00:24:48 [INFO] topics_generator.py:427 -   ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:428 -   Title: None
+2025-08-13 00:24:48 [INFO] topics_generator.py:429 -   Content: # Routledge Handbook of the Chinese Communist Party  
+
+![](images/bdd4c781fcc3ae975b6bdf16329bba0ce24633275323f739c3e05d2c762bf190.jpg)  
+
+Willy Wo-Lap Lam  
+
+# The CCP's exploitation of Confucianism ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:430 -   Create Time: 2025-08-12 18:57:04
+2025-08-13 00:24:48 [INFO] topics_generator.py:431 -   Memory Type: TEXT
+2025-08-13 00:24:48 [INFO] topics_generator.py:432 -   Number of chunks: 90
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 1:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6449
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Routledge Handbook of the Chinese Communist Party  
+
+![](images/bdd4c781fcc3ae975b6bdf16329bba0ce2...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 2:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6450
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 3:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6451
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Confucius: Saint or Satan?  
+
+The relationship between the CCP and Confucius has been a complex on...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 4:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6452
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: as a "Saint" (Han Fei Zi, Chapter 49). The "sainthood" of Confucius and his ideas had continued thro...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 5:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6453
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: . These early revolutionaries were well versed in the Confucian canon. Their negative appraisal of C...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 6:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6454
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 7:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6455
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: ideas. In his speech at the Sixth Plenary Session of the Sixth Central Committee of the CCP in 1938,...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 8:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6456
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Mao's positive attitudes toward Confucius and Confucianism, however, undertook an about-turn in his ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 9:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6457
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3,10.4324/9781315543918...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 10:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6458
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: It must be noted that the revival of Confucianism under the current government is not a new, sudden ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 11:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6459
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 12:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6460
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Confucianism is increasingly becoming central among the learning of Chinese classics endorsed by the...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 13:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6461
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: How to interpret this wholesale and unprecedented return to cultural roots under President Xi? Guo Y...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 14:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6462
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # What can Confucianism and Legalism offer?  
+
+Confucius has a dream. He calls it da tong (大同), lite...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 15:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6463
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The Confucian paradigm of zhengjiao heyi is consistent with the Confucian definition of human nature...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 16:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6464
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The ruler, who is construed as internally a saint, naturally becomes the nation's moral teacher unde...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 17:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6465
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Legalism, on the other hand, holds that human actions are driven by self-interest and this cannot be...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 18:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6466
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 19:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6467
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: I have argued that the political theory behind President Xi's governing strategy of "governing the c...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 20:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6468
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The dual emphasis on moral influence expressed in the Decision shows a strong Confucian orientation....
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 21:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6469
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Unifying beliefs and thoughts are of particular importance to a rationale of "rule by virtue" that e...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 22:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6470
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 23:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6471
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: What is important to bear in mind is that Xi Jinping's political dream goes beyond establishing legi...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 24:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6472
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: In his address to the Confucius Research Institute in Qufu in 2013, President Xi emphasized that fou...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 25:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6473
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: There are still two issues to be resolved. One is the issue of ideology. The official ideology of th...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 26:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6474
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Conclusion  
+
+As political philosophies Confucianism and Legalism are capable of supporting a high...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 27:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6475
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Guo, Yingjie. (2016) The CCP returns to Chinese cultural roots. East Asia Forum, October 3. Availabl...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 28:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6476
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: People's Daily Editorial Department. (2015) Xi Jinping Yongdian (Classics Quotes Used by Xi Jinping)...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 29:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6477
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Xing, Beinan. (2016) "Pi Lin Pi Kong" yundong zhong "Pi Kong" de jiben tezheng cong zhongguo gongcha...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 30:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6478
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 31:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10172
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Routledge Handbook of the Chinese Communist Party  
+
+![](images/bdd4c781fcc3ae975b6bdf16329bba0ce2...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 32:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10173
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 33:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10174
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Confucius: Saint or Satan?  
+
+The relationship between the CCP and Confucius has been a complex on...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 34:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10175
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: as a "Saint" (Han Fei Zi, Chapter 49). The "sainthood" of Confucius and his ideas had continued thro...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 35:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10176
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: . These early revolutionaries were well versed in the Confucian canon. Their negative appraisal of C...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 36:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10177
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 37:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10178
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: ideas. In his speech at the Sixth Plenary Session of the Sixth Central Committee of the CCP in 1938,...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 38:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10179
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Mao's positive attitudes toward Confucius and Confucianism, however, undertook an about-turn in his ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 39:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10180
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3,10.4324/9781315543918...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 40:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10181
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: It must be noted that the revival of Confucianism under the current government is not a new, sudden ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 41:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10182
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 42:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10183
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Confucianism is increasingly becoming central among the learning of Chinese classics endorsed by the...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 43:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10184
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: How to interpret this wholesale and unprecedented return to cultural roots under President Xi? Guo Y...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 44:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10185
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # What can Confucianism and Legalism offer?  
+
+Confucius has a dream. He calls it da tong (大同), lite...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 45:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10186
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The Confucian paradigm of zhengjiao heyi is consistent with the Confucian definition of human nature...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 46:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10187
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The ruler, who is construed as internally a saint, naturally becomes the nation's moral teacher unde...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 47:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10188
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Legalism, on the other hand, holds that human actions are driven by self-interest and this cannot be...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 48:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10189
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 49:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10190
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: I have argued that the political theory behind President Xi's governing strategy of "governing the c...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 50:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10191
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The dual emphasis on moral influence expressed in the Decision shows a strong Confucian orientation....
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 51:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10192
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Unifying beliefs and thoughts are of particular importance to a rationale of "rule by virtue" that e...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 52:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10193
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 53:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10194
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: What is important to bear in mind is that Xi Jinping's political dream goes beyond establishing legi...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 54:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10195
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: In his address to the Confucius Research Institute in Qufu in 2013, President Xi emphasized that fou...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 55:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10196
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: There are still two issues to be resolved. One is the issue of ideology. The official ideology of th...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 56:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10197
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Conclusion  
+
+As political philosophies Confucianism and Legalism are capable of supporting a high...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 57:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10198
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Guo, Yingjie. (2016) The CCP returns to Chinese cultural roots. East Asia Forum, October 3. Availabl...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 58:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10199
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: People's Daily Editorial Department. (2015) Xi Jinping Yongdian (Classics Quotes Used by Xi Jinping)...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 59:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10200
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Xing, Beinan. (2016) "Pi Lin Pi Kong" yundong zhong "Pi Kong" de jiben tezheng cong zhongguo gongcha...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 60:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10201
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 61:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13895
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Routledge Handbook of the Chinese Communist Party  
+
+![](images/bdd4c781fcc3ae975b6bdf16329bba0ce2...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 62:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13896
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 63:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13897
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Confucius: Saint or Satan?  
+
+The relationship between the CCP and Confucius has been a complex on...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 64:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13898
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: as a "Saint" (Han Fei Zi, Chapter 49). The "sainthood" of Confucius and his ideas had continued thro...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 65:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13899
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: . These early revolutionaries were well versed in the Confucian canon. Their negative appraisal of C...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 66:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13900
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 67:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13901
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: ideas. In his speech at the Sixth Plenary Session of the Sixth Central Committee of the CCP in 1938,...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 68:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13902
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Mao's positive attitudes toward Confucius and Confucianism, however, undertook an about-turn in his ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 69:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13903
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3,10.4324/9781315543918...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 70:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13904
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: It must be noted that the revival of Confucianism under the current government is not a new, sudden ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 71:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13905
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 72:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13906
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Confucianism is increasingly becoming central among the learning of Chinese classics endorsed by the...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 73:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13907
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: How to interpret this wholesale and unprecedented return to cultural roots under President Xi? Guo Y...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 74:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13908
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # What can Confucianism and Legalism offer?  
+
+Confucius has a dream. He calls it da tong (大同), lite...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 75:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13909
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The Confucian paradigm of zhengjiao heyi is consistent with the Confucian definition of human nature...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 76:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13910
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The ruler, who is construed as internally a saint, naturally becomes the nation's moral teacher unde...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 77:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13911
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Legalism, on the other hand, holds that human actions are driven by self-interest and this cannot be...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 78:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13912
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 79:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13913
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: I have argued that the political theory behind President Xi's governing strategy of "governing the c...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 80:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13914
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The dual emphasis on moral influence expressed in the Decision shows a strong Confucian orientation....
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 81:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13915
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Unifying beliefs and thoughts are of particular importance to a rationale of "rule by virtue" that e...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 82:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13916
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 83:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13917
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: What is important to bear in mind is that Xi Jinping's political dream goes beyond establishing legi...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 84:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13918
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: In his address to the Confucius Research Institute in Qufu in 2013, President Xi emphasized that fou...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 85:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13919
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: There are still two issues to be resolved. One is the issue of ideology. The official ideology of th...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 86:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13920
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # Conclusion  
+
+As political philosophies Confucianism and Legalism are capable of supporting a high...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 87:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13921
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Guo, Yingjie. (2016) The CCP returns to Chinese cultural roots. East Asia Forum, October 3. Availabl...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 88:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13922
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: People's Daily Editorial Department. (2015) Xi Jinping Yongdian (Classics Quotes Used by Xi Jinping)...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 89:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13923
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Xing, Beinan. (2016) "Pi Lin Pi Kong" yundong zhong "Pi Kong" de jiben tezheng cong zhongguo gongcha...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 90:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13924
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 51
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Downloaded By: 10.3.98.104 At: 02:32 29 Mar 2021; For: 9781315543918, chapter3, 10.4324/978131554391...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:426 - 
+Note 46:
+2025-08-13 00:24:48 [INFO] topics_generator.py:427 -   ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:428 -   Title: None
+2025-08-13 00:24:48 [INFO] topics_generator.py:429 -   Content: # "The study of the military, the study of war, the study of warfare," the monograph⼁How to develop the concept of warfare
+
+By 杨凡凡 Published 13 Apr 2022 2242Z Collected 25 May 2022 1718Z
+
+How the oper...
+2025-08-13 00:24:48 [INFO] topics_generator.py:430 -   Create Time: 2025-08-12 18:57:04
+2025-08-13 00:24:48 [INFO] topics_generator.py:431 -   Memory Type: TEXT
+2025-08-13 00:24:48 [INFO] topics_generator.py:432 -   Number of chunks: 30
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 1:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6479
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # "The study of the military, the study of war, the study of warfare," the monograph⼁How to develop ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 2:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6480
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: From a hierarchical point of view, the top-level concept mainly plans and designs the warfare concep...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 3:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6481
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Adhere to the problem-oriented, to identify the largest combat pain points
+
+The concept of warfare i...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 4:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6482
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Categorize the mission. Based on the national security and development strategy, national defense st...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 5:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6483
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The problem of military problems. According to the degree of impact of threats and challenges, the m...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 6:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6484
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Find the breaking point. For strategic, campaign, tactical different subjects to carry out the task ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 7:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6485
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Set strategy. According to the current capability gaps and future technological development possibil...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 8:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6486
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: solution is selected according to the support degree of major combat tasks and the enhancement degre...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 9:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6487
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Consolidation of indicators. According to the capability requirements, combine the existing system c...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 10:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 6488
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Planning Development. Design development plans for combat forces, weapons and equipment, and key tec...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 11:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10202
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # "The study of the military, the study of war, the study of warfare," the monograph⼁How to develop ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 12:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10203
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: From a hierarchical point of view, the top-level concept mainly plans and designs the warfare concep...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 13:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10204
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Adhere to the problem-oriented, to identify the largest combat pain points
+
+The concept of warfare i...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 14:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10205
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Categorize the mission. Based on the national security and development strategy, national defense st...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 15:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10206
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The problem of military problems. According to the degree of impact of threats and challenges, the m...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 16:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10207
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Find the breaking point. For strategic, campaign, tactical different subjects to carry out the task ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 17:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10208
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Set strategy. According to the current capability gaps and future technological development possibil...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 18:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10209
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: solution is selected according to the support degree of major combat tasks and the enhancement degre...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 19:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10210
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Consolidation of indicators. According to the capability requirements, combine the existing system c...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 20:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 10211
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Planning Development. Design development plans for combat forces, weapons and equipment, and key tec...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 21:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13925
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: # "The study of the military, the study of war, the study of warfare," the monograph⼁How to develop ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 22:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13926
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: From a hierarchical point of view, the top-level concept mainly plans and designs the warfare concep...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 23:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13927
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Adhere to the problem-oriented, to identify the largest combat pain points
+
+The concept of warfare i...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 24:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13928
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Categorize the mission. Based on the national security and development strategy, national defense st...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 25:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13929
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: The problem of military problems. According to the degree of impact of threats and challenges, the m...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 26:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13930
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Find the breaking point. For strategic, campaign, tactical different subjects to carry out the task ...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 27:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13931
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Set strategy. According to the current capability gaps and future technological development possibil...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 28:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13932
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: solution is selected according to the support degree of major combat tasks and the enhancement degre...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 29:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13933
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Consolidation of indicators. According to the capability requirements, combine the existing system c...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:434 -     Chunk 30:
+2025-08-13 00:24:48 [INFO] topics_generator.py:435 -       ID: 13934
+2025-08-13 00:24:48 [INFO] topics_generator.py:436 -       Document ID: 52
+2025-08-13 00:24:48 [INFO] topics_generator.py:437 -       Content: Planning Development. Design development plans for combat forces, weapons and equipment, and key tec...
+2025-08-13 00:24:48 [INFO] topics_generator.py:440 -       Has embedding: True
+2025-08-13 00:24:48 [INFO] topics_generator.py:442 -       Embedding shape: (1024,)
+2025-08-13 00:24:48 [INFO] topics_generator.py:463 - embedding_matrix shape: 11677, clean_chunks length: 11677
+2025-08-13 00:24:48 [INFO] topics_generator.py:640 - Attempt 1/3
+2025-08-13 00:24:48 [INFO] topics_generator.py:641 - Request messages: [{"role": "system", "content": "You are a skilled wordsmith with extensive experience in managing structured knowledge documents. Given a knowledge chunk, your main task involves crafting phrases that accurately represent provided chunk as \"topics\" and generating concise \"tags\" for categorization purposes. The tags, several nouns, should be broader and more general than the topic. Here are some examples illustrating effective pairing of topics and tags:\n\n{\"topic\": \"Decoder-only transformers pretraining on large-scale corpora\", \"tags\": [\"Transformers\", \"Pretraining\", \"Large-scale corpora\"]}\n{\"topic\": \"Formula 1 racing car aerodynamics learning\", \"tags\": [\"Formula 1\", \"Racing\", \"Aerodynamics\"]}\n{\"topic\": \"1980s Progressive Rock bands and their discographies\", \"tags\": [\"Progressive Rock\", \"Bands\", \"Discographies\"]}\n{\"topic\": \"Czech Republic's history and culture during medieval times\", \"tags\": [\"Czech Republic\", \"History\", \"Culture\"]}\n{\"topic\": \"Revolution of European Political Economy in the 19th century\", \"tags\": [\"Political Economy\", \"Revolution\", \"Europe\"]}\n\nGuidelines for generating effective \"topics\" and \"tags\" are as follows:\n1. A good topic should be concise, informative, and specifically capture the essence of the note without being overly broad or vague.\n2. The tags should be 3-5 nouns and more general than the topic, serving as a category or a prompt for further dialogue.\n3. Ideally, a topic should comprise 5-10 words, while each tag should be limited to 1-3 words.\n4. Use double quotes in your response and make sure it can be parsed using json.loads(), as shown in the examples above."}, {"role": "user", "content": "Please generate a topic and tags for the knowledge chunk provided below, using the format of the examples previously mentioned. Just produce the topic and tags using the same JSON format as the examples.\n\n# CHAPTER 1\n\n## CCP DECISION-MAKING AND XI JINPING'S CENTRALIZATION OF AUTHORITY\n\n### Abstract\n\nOver the past ten years, General Secretary of the Chinese Communist Party (CCP) Xi Jinping has undertaken a wide-ranging effort to restructure decision-making processes within the Chinese Party-state that will continue to have effects at the 20th Party Congress and beyond. Xi has augmented his own authority and systematically centralized decision-making power across all policy areas, preserving and enhancing the CCP's capacity to dominate policymaking and expanding his own authority to drive China's policy agenda. This top-down approach aims to unify the government and the nation under the Party and deliver on Xi's aspirations of enhancing China's strength while avoiding what he perceives as the shortcomings of his predecessors' leadership. Nevertheless, Xi's centralization of decision-making power may reduce the adaptability of lower-level governments and encourage the CCP's reliance on policy approaches that are poorly suited to address China's structural challenges. Should these trends continue, challenges to the United States may include more unpredictable economic policy decision-making, a more assertive foreign policy agenda, and a more aggressive military posture.\n\n### Key Findings\n\n- General Secretary Xi's decision-making power has increased dramatically over the past decade, to the point that CCP media have recast the previously negative term \"decision by one authority\" as a positive feature of China's system. Xi has also overhauled Party rules to give himself an outsized role in the overall governance of the CCP and of China. Xi will likely maintain his high level of control after the October 20th Party Congress and the spring 2023 National People's Congress.\n"}]
+2025-08-13 00:24:50 [INFO] topics_generator.py:647 - Generated content: {"topic": "Xi Jinping's centralization of authority and decision-making in the Chinese Communist Party", "tags": ["Xi Jinping", "Chinese Communist Party", "Authority", "Decision-making", "Centralization"]}
+2025-08-13 00:25:18 [ERROR] l1_manager.py:162 - Error in L1 generation: Expecting value: line 1 column 10 (char 9)
+Traceback (most recent call last):
+  File "/app/lpm_kernel/kernel/l1/l1_manager.py", line 125, in generate_l1_from_l0
+    chunk_topics = l1_generator.generate_topics(notes_list)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/lpm_kernel/L1/l1_generator.py", line 477, in generate_topics
+    return topics_generator.generate_topics(notes_list)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/lpm_kernel/L1/topics_generator.py", line 445, in generate_topics
+    tmpTopics = self._cold_start(notes_list)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/lpm_kernel/L1/topics_generator.py", line 471, in _cold_start
+    cluster_data = self.__cold_clusters(clean_chunks, embedding_matrix)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/lpm_kernel/L1/topics_generator.py", line 508, in __cold_clusters
+    cluster_data = self.__gen_cluster_data(clusters, chunks_with_topics)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/lpm_kernel/L1/topics_generator.py", line 575, in __gen_cluster_data
+    new_tags, new_topic = self.__gen_cluster_topic(c_tags, c_topics)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/lpm_kernel/L1/topics_generator.py", line 607, in __gen_cluster_topic
+    new_topic, new_tags = self.__parse_response(
+                          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/lpm_kernel/L1/topics_generator.py", line 683, in __parse_response
+    res_dict = json.loads(c)
+               ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/json/decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/json/decoder.py", line 356, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 10 (char 9)
+2025-08-13 00:25:18 [ERROR] trainprocess_service.py:258 - Biography generation failed: Expecting value: line 1 column 10 (char 9)
+2025-08-13 00:25:18 [ERROR] trainprocess_service.py:1112 - Step generate_biography failed
+2025-08-13 00:25:18 [INFO] trainprocess_service.py:1113 - Marking step as failed: stage=generate_biography, step=generate_biography
